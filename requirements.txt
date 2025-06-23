@@ -6,3 +6,4 @@ nltk
 wordcloud
 emoji
 prophet
+fpdf
