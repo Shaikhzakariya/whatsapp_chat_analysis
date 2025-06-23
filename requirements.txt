@@ -1,9 +1,12 @@
 streamlit
+pandas
 matplotlib
 seaborn
-pandas
-nltk
 wordcloud
 emoji
-prophet
+nltk
 fpdf
+textblob
+scikit-learn
+statsmodels
+bcrypt
